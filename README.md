@@ -1,2 +1,2 @@
-<h><b> Fri-Chicks-Project
+<h1><b> Fri-Chicks-Project
 Fri-Chicks Project
